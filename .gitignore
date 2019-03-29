@@ -1,2 +1,6 @@
 !*.sch
 !*.brd
+*/
+*.lck
+*.pdf
+*.xls
